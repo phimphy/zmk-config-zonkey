@@ -8,7 +8,7 @@
 #define DFb 0
 #define JIS 1
 #define BT 4
-#define MOUSE 6
+#define MOUSE 5
 #define JP_DQUOTE       AT                // "
 #define JP_AMPERSAND    CARET             // &
 #define JP_QUOTE        AMPERSAND         // '
